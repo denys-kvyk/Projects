@@ -1,0 +1,720 @@
+[INFO 2018-01-04 14:38:01]: Add product to cart Test Started
+[INFO 2018-01-04 14:38:05]: Add product to cart Test Finished
+[INFO 2018-01-05 02:46:32]: Add product to cart Test Started
+[INFO 2018-01-05 02:46:37]: Add product to cart Test Finished
+[INFO 2018-01-07 03:49:24]: Add product to cart Test Started
+[INFO 2018-01-07 03:51:13]: Add product to cart Test Started
+[INFO 2018-01-07 03:51:45]: Add product to cart Test Started
+[INFO 2018-01-07 03:52:55]: Add product to cart Test Started
+[INFO 2018-01-07 03:56:24]: Add product to cart Test Started
+[INFO 2018-01-07 03:57:50]: Add product to cart Test Started
+[INFO 2018-01-07 03:58:18]: Add product to cart Test Started
+[INFO 2018-01-07 04:00:22]: Add product to cart Test Started
+[INFO 2018-01-07 04:01:02]: Add product to cart Test Started
+[INFO 2018-01-07 04:01:34]: Add product to cart Test Started
+[INFO 2018-01-07 04:02:41]: Add product to cart Test Started
+[INFO 2018-01-07 04:03:08]: Add product to cart Test Started
+[INFO 2018-01-07 04:03:42]: Add product to cart Test Started
+[INFO 2018-01-07 04:05:55]: Add product to cart Test Started
+[INFO 2018-01-07 04:09:29]: Add product to cart Test Started
+[INFO 2018-01-07 04:10:54]: Add product to cart Test Started
+[INFO 2018-01-07 04:11:38]: Add product to cart Test Started
+[INFO 2018-01-07 04:12:40]: Add product to cart Test Started
+[INFO 2018-01-07 04:13:16]: Add product to cart Test Started
+[INFO 2018-01-07 04:14:27]: Add product to cart Test Started
+[INFO 2018-01-07 04:16:05]: Add product to cart Test Started
+[INFO 2018-01-07 04:16:12]: Add product to cart Test Finished
+[INFO 2018-01-07 04:16:37]: Add product to cart Test Started
+[INFO 2018-01-07 04:16:47]: Add product to cart Test Finished
+[INFO 2018-01-07 04:17:30]: Add product to cart Test Started
+[INFO 2018-01-07 04:20:36]: Add product to cart Test Started
+[INFO 2018-01-07 04:21:00]: Add product to cart Test Started
+[INFO 2018-01-07 04:21:27]: Add product to cart Test Started
+[INFO 2018-01-07 04:21:31]: Add product to cart Test Finished
+[INFO 2018-01-07 04:22:59]: Add product to cart Test Started
+[INFO 2018-01-07 04:23:04]: Add product to cart Test Finished
+[INFO 2018-01-07 05:07:21]: Add product to cart Test Started
+[INFO 2018-01-07 05:07:36]: MacBook added to the Cart
+[INFO 2018-01-07 05:07:37]: MacBook added to the Cart
+[INFO 2018-01-07 05:07:37]: iPhone added to the Cart
+[INFO 2018-01-07 05:07:37]: Add product to cart Test Finished
+[INFO 2018-01-07 05:11:12]: Add product to cart Test Started
+[INFO 2018-01-07 05:11:17]: MacBook added to the Cart
+[INFO 2018-01-07 05:11:18]: MacBook added to the Cart
+[INFO 2018-01-07 05:11:18]: iPhone added to the Cart
+[INFO 2018-01-07 05:11:18]: Add product to cart Test Finished
+[INFO 2018-01-07 05:14:52]: Add product to cart Test Started
+[INFO 2018-01-07 05:14:57]: MacBook added to the Cart
+[INFO 2018-01-07 05:14:57]: MacBook added to the Cart
+[INFO 2018-01-07 05:14:57]: iPhone added to the Cart
+[INFO 2018-01-07 05:14:57]: Add product to cart Test Finished
+[INFO 2018-01-07 05:17:46]: Add product to cart Test Started
+[INFO 2018-01-07 05:17:51]: MacBook added to the Cart
+[INFO 2018-01-07 05:17:51]: MacBook added to the Cart
+[INFO 2018-01-07 05:17:52]: iPhone added to the Cart
+[INFO 2018-01-07 05:17:52]: Add product to cart Test Finished
+[INFO 2018-01-07 05:19:48]: Add product to cart Test Started
+[INFO 2018-01-07 05:19:52]: MacBook added to the Cart
+[INFO 2018-01-07 05:19:52]: MacBook added to the Cart
+[INFO 2018-01-07 05:19:53]: iPhone added to the Cart
+[INFO 2018-01-07 05:19:53]: Add product to cart Test Finished
+[INFO 2018-01-07 05:22:06]: Add product to cart Test Started
+[INFO 2018-01-07 05:22:10]: Add product to cart Test Finished
+[INFO 2018-01-07 05:23:50]: Add product to cart Test Started
+[INFO 2018-01-07 05:23:56]: Add product to cart Test Finished
+[INFO 2018-01-07 05:24:55]: Add product to cart Test Started
+[INFO 2018-01-07 05:25:00]: Add product to cart Test Finished
+[INFO 2018-01-07 05:25:27]: Add product to cart Test Started
+[INFO 2018-01-07 05:25:32]: Add product to cart Test Finished
+[INFO 2018-01-07 05:26:30]: Add product to cart Test Started
+[INFO 2018-01-07 05:26:33]: Add product to cart Test Finished
+[INFO 2018-01-07 05:27:07]: Add product to cart Test Started
+[INFO 2018-01-07 05:27:10]: Add product to cart Test Finished
+[INFO 2018-01-07 05:27:39]: Add product to cart Test Started
+[INFO 2018-01-07 05:27:43]: MacBook added to the Cart
+[INFO 2018-01-07 05:27:43]: MacBook added to the Cart
+[INFO 2018-01-07 05:27:44]: iPhone added to the Cart
+[INFO 2018-01-07 05:27:44]: Add product to cart Test Finished
+[INFO 2018-01-07 05:30:13]: Add product to cart Test Started
+[INFO 2018-01-07 05:30:17]: MacBook added to the Cart
+[INFO 2018-01-07 05:30:17]: MacBook added to the Cart
+[INFO 2018-01-07 05:30:18]: iPhone added to the Cart
+[INFO 2018-01-07 05:30:19]: Add product to cart Test Finished
+[INFO 2018-01-07 05:34:54]: Add product to cart Test Started
+[INFO 2018-01-07 05:34:58]: MacBook added to the Cart
+[INFO 2018-01-07 05:34:58]: MacBook added to the Cart
+[INFO 2018-01-07 05:34:59]: iPhone added to the Cart
+[INFO 2018-01-07 05:37:46]: Add product to cart Test Started
+[INFO 2018-01-07 05:37:52]: MacBook added to the Cart
+[INFO 2018-01-07 05:37:53]: MacBook added to the Cart
+[INFO 2018-01-07 05:37:53]: iPhone added to the Cart
+[INFO 2018-01-07 05:37:54]: Add product to cart Test Finished
+[INFO 2018-01-07 05:38:21]: Add product to cart Test Started
+[INFO 2018-01-07 05:38:25]: MacBook added to the Cart
+[INFO 2018-01-07 05:38:25]: MacBook added to the Cart
+[INFO 2018-01-07 05:38:26]: iPhone added to the Cart
+[INFO 2018-01-07 05:38:27]: Cart button clicked
+[INFO 2018-01-07 05:38:27]: Add product to cart Test Finished
+[INFO 2018-01-07 05:39:14]: Add product to cart Test Started
+[INFO 2018-01-07 05:39:18]: MacBook added to the Cart
+[INFO 2018-01-07 05:39:19]: MacBook added to the Cart
+[INFO 2018-01-07 05:39:19]: iPhone added to the Cart
+[INFO 2018-01-07 05:39:20]: Cart button clicked
+[INFO 2018-01-07 05:39:20]: Add product to cart Test Finished
+[INFO 2018-01-07 05:41:33]: Add product to cart Test Started
+[INFO 2018-01-07 05:41:37]: MacBook added to the Cart
+[INFO 2018-01-07 05:41:38]: MacBook added to the Cart
+[INFO 2018-01-07 05:41:38]: iPhone added to the Cart
+[INFO 2018-01-07 05:41:40]: Cart button clicked
+[INFO 2018-01-07 05:41:40]: Add product to cart Test Finished
+[INFO 2018-01-07 05:45:45]: Add product to cart Test Started
+[INFO 2018-01-07 05:45:48]: MacBook added to the Cart
+[INFO 2018-01-07 05:45:49]: MacBook added to the Cart
+[INFO 2018-01-07 05:45:49]: iPhone added to the Cart
+[INFO 2018-01-07 05:45:51]: Cart button clicked
+[INFO 2018-01-07 05:45:51]: Add product to cart Test Finished
+[INFO 2018-01-07 05:48:25]: Add product to cart Test Started
+[INFO 2018-01-07 05:48:30]: MacBook added to the Cart
+[INFO 2018-01-07 05:48:30]: MacBook added to the Cart
+[INFO 2018-01-07 05:48:31]: iPhone added to the Cart
+[INFO 2018-01-07 05:48:32]: Cart button clicked
+[INFO 2018-01-07 05:48:32]: Get total price from table = 327.2
+[INFO 2018-01-07 05:48:32]: Add product to cart Test Finished
+[INFO 2018-01-07 05:49:30]: Add product to cart Test Started
+[INFO 2018-01-07 05:49:36]: MacBook added to the Cart
+[INFO 2018-01-07 05:49:36]: MacBook added to the Cart
+[INFO 2018-01-07 05:49:36]: iPhone added to the Cart
+[INFO 2018-01-07 05:49:38]: Cart button clicked
+[INFO 2018-01-07 05:49:38]: Get total price from table = 327.2
+[INFO 2018-01-07 05:49:38]: Add product to cart Test Finished
+[INFO 2018-01-07 05:50:28]: Add product to cart Test Started
+[INFO 2018-01-07 05:50:33]: MacBook added to the Cart
+[INFO 2018-01-07 05:50:34]: MacBook added to the Cart
+[INFO 2018-01-07 05:50:34]: iPhone added to the Cart
+[INFO 2018-01-07 05:50:35]: Cart button clicked
+[INFO 2018-01-07 05:50:36]: Get total price from table = 327.2
+[INFO 2018-01-07 05:50:36]: Add product to cart Test Finished
+[INFO 2018-01-07 05:59:28]: Add product to cart Test Started
+[INFO 2018-01-07 05:59:33]: MacBook added to the Cart
+[INFO 2018-01-07 05:59:33]: MacBook added to the Cart
+[INFO 2018-01-07 05:59:34]: iPhone added to the Cart
+[INFO 2018-01-07 05:59:35]: Cart button clicked
+[INFO 2018-01-07 05:59:35]: Get total price from table = 1.0
+[INFO 2018-01-07 06:00:12]: Add product to cart Test Started
+[INFO 2018-01-07 06:00:17]: MacBook added to the Cart
+[INFO 2018-01-07 06:00:17]: MacBook added to the Cart
+[INFO 2018-01-07 06:00:18]: iPhone added to the Cart
+[INFO 2018-01-07 06:00:19]: Cart button clicked
+[INFO 2018-01-07 06:09:16]: Add product to cart Test Started
+[INFO 2018-01-07 06:09:21]: MacBook added to the Cart
+[INFO 2018-01-07 06:09:21]: MacBook added to the Cart
+[INFO 2018-01-07 06:09:22]: iPhone added to the Cart
+[INFO 2018-01-07 06:09:23]: Cart button clicked
+[INFO 2018-01-07 06:09:23]: Get total price from table = 327.2
+[INFO 2018-01-07 06:09:23]: Add product to cart Test Finished
+[INFO 2018-01-07 06:26:40]: Add product to cart Test Started
+[INFO 2018-01-07 06:26:44]: MacBook added to the Cart
+[INFO 2018-01-07 06:26:45]: MacBook added to the Cart
+[INFO 2018-01-07 06:26:45]: iPhone added to the Cart
+[INFO 2018-01-07 06:26:47]: Cart button clicked
+[INFO 2018-01-07 06:26:47]: Get total price from table = 327.2
+[INFO 2018-01-07 06:26:47]: Add product to cart Test Finished
+[INFO 2018-01-07 06:27:05]: Add product to cart Test Started
+[INFO 2018-01-07 06:27:09]: MacBook added to the Cart
+[INFO 2018-01-07 06:27:10]: MacBook added to the Cart
+[INFO 2018-01-07 06:27:10]: iPhone added to the Cart
+[INFO 2018-01-07 06:27:11]: Cart button clicked
+[INFO 2018-01-07 06:27:11]: Get total price from table = 327.2
+[INFO 2018-01-07 06:27:11]: Add product to cart Test Finished
+[INFO 2018-01-07 06:27:26]: Add product to cart Test Started
+[INFO 2018-01-07 06:27:29]: MacBook added to the Cart
+[INFO 2018-01-07 06:27:30]: MacBook added to the Cart
+[INFO 2018-01-07 06:27:30]: iPhone added to the Cart
+[INFO 2018-01-07 06:27:31]: Cart button clicked
+[INFO 2018-01-07 06:27:32]: Get total price from table = 327.2
+[INFO 2018-01-07 06:27:32]: Add product to cart Test Finished
+[INFO 2018-01-07 06:28:14]: Add product to cart Test Started
+[INFO 2018-01-07 06:28:18]: MacBook added to the Cart
+[INFO 2018-01-07 06:28:18]: MacBook added to the Cart
+[INFO 2018-01-07 06:28:19]: iPhone added to the Cart
+[INFO 2018-01-07 06:28:20]: Cart button clicked
+[INFO 2018-01-07 06:28:20]: Get total price from table = 327.2
+[INFO 2018-01-07 06:28:20]: Add product to cart Test Finished
+[INFO 2018-01-07 06:28:35]: Add product to cart Test Started
+[INFO 2018-01-07 06:29:36]: Add product to cart Test Started
+[INFO 2018-01-07 06:29:41]: MacBook added to the Cart
+[INFO 2018-01-07 06:29:41]: MacBook added to the Cart
+[INFO 2018-01-07 06:29:42]: iPhone added to the Cart
+[INFO 2018-01-07 06:29:43]: Cart button clicked
+[INFO 2018-01-07 06:29:43]: Get total price from table = 327.2
+[INFO 2018-01-07 06:29:43]: Add product to cart Test Finished
+[INFO 2018-01-07 06:31:21]: Add product to cart Test Started
+[INFO 2018-01-07 06:31:25]: MacBook added to the Cart
+[INFO 2018-01-07 06:31:25]: MacBook added to the Cart
+[INFO 2018-01-07 06:31:26]: iPhone added to the Cart
+[INFO 2018-01-07 06:31:27]: Cart button clicked
+[INFO 2018-01-07 06:31:27]: Get total price from table = 327.2
+[INFO 2018-01-07 06:31:27]: Add product to cart Test Finished
+[INFO 2018-01-07 06:33:29]: Add product to cart Test Started
+[INFO 2018-01-07 06:33:35]: MacBook added to the Cart
+[INFO 2018-01-07 06:33:35]: MacBook added to the Cart
+[INFO 2018-01-07 06:33:36]: iPhone added to the Cart
+[INFO 2018-01-07 06:33:37]: Cart button clicked
+[INFO 2018-01-07 06:34:33]: Add product to cart Test Started
+[INFO 2018-01-07 06:34:38]: MacBook added to the Cart
+[INFO 2018-01-07 06:34:38]: MacBook added to the Cart
+[INFO 2018-01-07 06:34:38]: iPhone added to the Cart
+[INFO 2018-01-07 06:34:40]: Cart button clicked
+[INFO 2018-01-07 06:34:40]: Get total price from table = 1.0
+[INFO 2018-01-07 06:34:40]: Add product to cart Test Finished
+[INFO 2018-01-07 07:04:26]: Add product to cart Test Started
+[INFO 2018-01-07 07:11:48]: Add product to cart Test Started
+[INFO 2018-01-07 07:11:53]: MacBook added to the Cart
+[INFO 2018-01-07 07:11:53]: MacBook added to the Cart
+[INFO 2018-01-07 07:11:54]: iPhone added to the Cart
+[INFO 2018-01-07 07:11:55]: Cart button clicked
+[INFO 2018-01-07 07:13:53]: Add product to cart Test Started
+[INFO 2018-01-07 07:13:58]: MacBook added to the Cart
+[INFO 2018-01-07 07:13:59]: MacBook added to the Cart
+[INFO 2018-01-07 07:13:59]: iPhone added to the Cart
+[INFO 2018-01-07 07:13:59]: Cart button clicked
+[INFO 2018-01-07 07:15:48]: Add product to cart Test Started
+[INFO 2018-01-07 07:15:53]: MacBook added to the Cart
+[INFO 2018-01-07 07:15:54]: MacBook added to the Cart
+[INFO 2018-01-07 07:16:43]: Add product to cart Test Started
+[INFO 2018-01-07 07:16:49]: MacBook added to the Cart
+[INFO 2018-01-07 07:16:49]: MacBook added to the Cart
+[INFO 2018-01-07 07:16:49]: iPhone added to the Cart
+[INFO 2018-01-07 07:17:29]: Add product to cart Test Started
+[INFO 2018-01-07 07:17:35]: MacBook added to the Cart
+[INFO 2018-01-07 07:17:35]: MacBook added to the Cart
+[INFO 2018-01-07 07:17:36]: iPhone added to the Cart
+[INFO 2018-01-07 07:17:37]: Cart button clicked
+[INFO 2018-01-07 07:17:38]: Wait for total price from table 
+[INFO 2018-01-07 07:18:53]: Add product to cart Test Started
+[INFO 2018-01-07 07:18:57]: MacBook added to the Cart
+[INFO 2018-01-07 07:18:57]: MacBook added to the Cart
+[INFO 2018-01-07 07:18:57]: iPhone added to the Cart
+[INFO 2018-01-07 07:18:59]: Cart button clicked
+[INFO 2018-01-07 07:19:00]: Wait for total price from table 
+[INFO 2018-01-07 07:19:56]: Add product to cart Test Started
+[INFO 2018-01-07 07:20:00]: MacBook added to the Cart
+[INFO 2018-01-07 07:20:00]: MacBook added to the Cart
+[INFO 2018-01-07 07:20:00]: iPhone added to the Cart
+[INFO 2018-01-07 07:20:02]: Cart button clicked
+[INFO 2018-01-07 07:20:03]: Wait for total price from table 
+[INFO 2018-01-07 07:21:15]: Add product to cart Test Started
+[INFO 2018-01-07 07:21:19]: MacBook added to the Cart
+[INFO 2018-01-07 07:21:19]: MacBook added to the Cart
+[INFO 2018-01-07 07:21:20]: iPhone added to the Cart
+[INFO 2018-01-07 07:21:21]: Cart button clicked
+[INFO 2018-01-07 07:21:22]: Wait for total price from table 
+[INFO 2018-01-07 07:21:23]: Get total price from table = 1327.2
+[INFO 2018-01-07 07:21:23]: Add product to cart Test Finished
+[INFO 2018-01-07 07:22:20]: Add product to cart Test Started
+[INFO 2018-01-07 07:22:26]: MacBook added to the Cart
+[INFO 2018-01-07 07:22:26]: MacBook added to the Cart
+[INFO 2018-01-07 07:22:27]: iPhone added to the Cart
+[INFO 2018-01-07 07:22:43]: Add product to cart Test Started
+[INFO 2018-01-07 07:22:46]: MacBook added to the Cart
+[INFO 2018-01-07 07:22:47]: MacBook added to the Cart
+[INFO 2018-01-07 07:22:47]: iPhone added to the Cart
+[INFO 2018-01-07 07:22:48]: Cart button clicked
+[INFO 2018-01-07 07:22:49]: Wait for total price from table 
+[INFO 2018-01-07 07:22:49]: Get total price from table = 1327.2
+[INFO 2018-01-07 07:22:49]: Add product to cart Test Finished
+[INFO 2018-01-07 07:24:03]: Add product to cart Test Started
+[INFO 2018-01-07 07:24:07]: MacBook added to the Cart
+[INFO 2018-01-07 07:24:08]: MacBook added to the Cart
+[INFO 2018-01-07 07:24:08]: iPhone added to the Cart
+[INFO 2018-01-07 07:24:09]: Cart button clicked
+[WARN 2018-01-07 07:24:10]: Wait for total price from table 
+[INFO 2018-01-07 07:24:10]: Get total price from table = 1327.2
+[INFO 2018-01-07 07:24:10]: Add product to cart Test Finished
+[INFO 2018-01-09 05:41:38]: Smoke Test Started
+[INFO 2018-01-09 05:43:19]: Smoke Test Started
+[INFO 2018-01-09 05:48:01]: Smoke Test Started
+[INFO 2018-01-09 05:48:03]: get test 
+[INFO 2018-01-09 05:48:03]: Smoke Test Finished
+[INFO 2018-01-09 05:50:08]: Smoke Test Started
+[INFO 2018-01-09 05:50:09]: Get text
+[INFO 2018-01-09 05:58:21]: Add product to cart Test Started
+[INFO 2018-01-09 05:58:23]: MacBook added to the Cart
+[INFO 2018-01-09 05:58:23]: MacBook added to the Cart
+[INFO 2018-01-09 05:58:23]: iPhone added to the Cart
+[INFO 2018-01-09 05:58:25]: Cart button clicked
+[WARN 2018-01-09 05:58:26]: Wait for total price from table 
+[INFO 2018-01-09 05:58:26]: Get total price from table = 1327.2
+[INFO 2018-01-09 05:58:26]: Add product to cart Test Finished
+[INFO 2018-01-09 06:07:38]: Smoke Test Started
+[INFO 2018-01-09 06:07:40]: Waiting for text
+[INFO 2018-01-09 06:07:40]: Get text
+[INFO 2018-01-09 06:09:52]: Smoke Test Started
+[INFO 2018-01-09 06:09:53]: Waiting for text
+[INFO 2018-01-09 06:09:54]: Get text
+[INFO 2018-01-09 06:10:22]: Smoke Test Started
+[INFO 2018-01-09 06:10:23]: Waiting for text
+[INFO 2018-01-09 06:10:24]: Get text
+[INFO 2018-01-09 06:11:02]: Smoke Test Started
+[INFO 2018-01-09 06:11:03]: Waiting for text
+[INFO 2018-01-09 06:11:03]: Get text
+[INFO 2018-01-09 06:11:30]: Add product to cart Test Started
+[INFO 2018-01-09 06:11:31]: MacBook added to the Cart
+[INFO 2018-01-09 06:11:32]: MacBook added to the Cart
+[INFO 2018-01-09 06:11:32]: iPhone added to the Cart
+[INFO 2018-01-09 06:11:33]: Cart button clicked
+[WARN 2018-01-09 06:11:34]: Wait for total price from table 
+[INFO 2018-01-09 06:11:34]: Get total price from table = 1327.2
+[INFO 2018-01-09 06:11:34]: Add product to cart Test Finished
+[INFO 2018-01-09 06:12:38]: Smoke Test Started
+[INFO 2018-01-09 06:12:40]: Waiting for text
+[INFO 2018-01-09 06:12:40]: Get text
+[INFO 2018-01-09 06:13:01]: Smoke Test Started
+[INFO 2018-01-09 06:13:02]: Waiting for text
+[INFO 2018-01-09 06:13:02]: Get text
+[INFO 2018-01-09 06:13:31]: Smoke Test Started
+[INFO 2018-01-09 06:13:33]: Waiting for text
+[INFO 2018-01-09 06:13:33]: Get text
+[INFO 2018-01-09 06:15:56]: Smoke Test Started
+[INFO 2018-01-09 06:15:57]: Waiting for text
+[INFO 2018-01-09 06:15:57]: Get text
+[INFO 2018-01-09 06:16:26]: Smoke Test Started
+[INFO 2018-01-09 06:16:27]: Waiting for text
+[INFO 2018-01-09 06:16:27]: Get text
+[INFO 2018-01-09 06:17:44]: Smoke Test Started
+[INFO 2018-01-09 06:17:45]: Waiting for text
+[INFO 2018-01-09 06:17:45]: Get text
+[INFO 2018-01-09 06:19:05]: Waiting for text
+[INFO 2018-01-09 06:19:05]: Get text
+[INFO 2018-01-09 06:19:05]: Smoke Test Started [#<Log4r::StderrOutputter:0x000000000190b108 @mon_owner=nil, @mon_count=0, @mon_mutex=#<Thread::Mutex:0x000000000190b068>, @name="console", @level=0, @formatter=#<Log4r::PatternFormatter:0x000000000190e100 @depth=7, @pattern="[%l %d]: %M", @date_pattern="%Y-%m-%d %H:%M:%S", @date_method=nil>, @out=#<IO:<STDERR>>>, #<Log4r::RollingFileOutputter:0x00000000018fac40 @mon_owner=nil, @mon_count=0, @mon_mutex=#<Thread::Mutex:0x00000000018fab78>, @name="rolling_file_outputter", @level=0, @formatter=#<Log4r::PatternFormatter:0x00000000018fe0e8 @depth=7, @pattern="[%l %d]: %M", @date_pattern="%Y-%m-%d %H:%M:%S", @date_method=nil>, @out=#<File:log/log000001.txt>, @trunc=false, @create=false, @filename="log/log000001.txt", @max_backups=-1, @log_dir="log", @file_extension=".txt", @core_file_name="log", @current_sequence_number=1, @start_time=2018-01-09 06:17:45 -0800, @datasize=18153>]
+[INFO 2018-01-09 06:20:14]: Smoke Test Started
+[INFO 2018-01-09 06:20:16]: Waiting for text
+[INFO 2018-01-09 06:20:16]: Smoke Test Finished
+[INFO 2018-01-09 06:20:30]: Smoke Test Started
+[INFO 2018-01-09 06:20:32]: Waiting for text
+[INFO 2018-01-09 06:20:32]: Get text
+[INFO 2018-01-09 06:25:50]: Smoke Test Started
+[INFO 2018-01-09 06:25:51]: Waiting for text
+[INFO 2018-01-09 06:25:51]: Smoke Test Finished
+[INFO 2018-01-09 06:26:21]: Smoke Test Started
+[INFO 2018-01-09 06:26:23]: Waiting for text
+[INFO 2018-01-09 06:26:23]: Smoke Test Finished
+[INFO 2018-01-09 06:28:03]: Smoke Test Started
+[INFO 2018-01-09 06:28:05]: Waiting for text
+[INFO 2018-01-09 06:28:05]: Text= Your shopping cart is empty!
+[INFO 2018-01-09 06:29:33]: Smoke Test Started
+[INFO 2018-01-09 06:29:35]: Waiting for text
+[INFO 2018-01-09 06:29:35]: Smoke Test Finished
+[INFO 2018-01-09 06:47:39]: Add product to cart and check names
+[INFO 2018-01-09 06:47:41]: MacBook added to the Cart
+[INFO 2018-01-09 06:47:41]: MacBook added to the Cart
+[INFO 2018-01-09 06:47:42]: iPhone added to the Cart
+[INFO 2018-01-09 06:49:19]: Add product to cart and check names
+[INFO 2018-01-09 06:49:22]: MacBook added to the Cart
+[INFO 2018-01-09 06:49:22]: MacBook added to the Cart
+[INFO 2018-01-09 06:49:22]: iPhone added to the Cart
+[INFO 2018-01-09 06:49:55]: Add product to cart and check names
+[INFO 2018-01-09 06:49:57]: MacBook added to the Cart
+[INFO 2018-01-09 06:49:57]: MacBook added to the Cart
+[INFO 2018-01-09 06:49:58]: iPhone added to the Cart
+[INFO 2018-01-09 06:50:03]: MacBook name got
+[INFO 2018-01-09 06:50:03]: MacBook name got
+[INFO 2018-01-09 06:50:03]: iPhone name got
+[INFO 2018-01-09 06:50:03]: Add product to cart and check names Test Finished
+[INFO 2018-01-09 06:51:01]: Add product to cart and check names
+[INFO 2018-01-09 06:51:04]: MacBook added to the Cart
+[INFO 2018-01-09 06:51:04]: MacBook added to the Cart
+[INFO 2018-01-09 06:51:04]: iPhone added to the Cart
+[INFO 2018-01-09 06:51:07]: MacBook name got
+[INFO 2018-01-09 06:51:07]: MacBook name got
+[INFO 2018-01-09 06:51:07]: iPhone name got
+[INFO 2018-01-09 06:51:07]: Add product to cart and check names Test Finished
+[INFO 2018-01-09 06:51:32]: Add product to cart and check names
+[INFO 2018-01-09 06:51:34]: MacBook added to the Cart
+[INFO 2018-01-09 06:51:35]: MacBook added to the Cart
+[INFO 2018-01-09 06:51:35]: iPhone added to the Cart
+[INFO 2018-01-09 06:51:37]: MacBook name got
+[INFO 2018-01-09 06:51:38]: MacBook name got
+[INFO 2018-01-09 06:51:38]: iPhone name got
+[INFO 2018-01-09 06:52:45]: Add product to cart and check names
+[INFO 2018-01-09 06:52:47]: MacBook added to the Cart
+[INFO 2018-01-09 06:52:47]: MacBook added to the Cart
+[INFO 2018-01-09 06:52:48]: iPhone added to the Cart
+[INFO 2018-01-09 06:52:50]: MacBook name got
+[INFO 2018-01-09 06:52:50]: MacBook name got
+[INFO 2018-01-09 06:52:50]: iPhone name got
+[INFO 2018-01-09 06:53:10]: Add product to cart and check names
+[INFO 2018-01-09 06:53:11]: MacBook added to the Cart
+[INFO 2018-01-09 06:53:12]: MacBook added to the Cart
+[INFO 2018-01-09 06:53:12]: iPhone added to the Cart
+[INFO 2018-01-09 06:53:14]: MacBook name got
+[INFO 2018-01-09 06:53:14]: MacBook name got
+[INFO 2018-01-09 06:53:14]: iPhone name got
+[INFO 2018-01-09 06:53:14]: Add product to cart and check names Test Finished
+[INFO 2018-01-09 06:53:45]: Add product to cart and check names
+[INFO 2018-01-09 06:53:47]: MacBook added to the Cart
+[INFO 2018-01-09 06:53:47]: MacBook added to the Cart
+[INFO 2018-01-09 06:53:48]: iPhone added to the Cart
+[INFO 2018-01-09 06:53:50]: MacBook name got
+[INFO 2018-01-09 06:53:50]: MacBook name got
+[INFO 2018-01-09 06:53:50]: iPhone name got
+[INFO 2018-01-09 06:53:50]: Add product to cart and check names Test Finished
+[INFO 2018-01-09 06:55:47]: Add product to cart Test Started
+[INFO 2018-01-09 06:55:49]: MacBook added to the Cart
+[INFO 2018-01-09 06:55:50]: MacBook added to the Cart
+[INFO 2018-01-09 06:55:50]: iPhone added to the Cart
+[INFO 2018-01-09 06:55:51]: Cart button clicked
+[WARN 2018-01-09 06:55:53]: Wait for total price from table 
+[INFO 2018-01-09 06:55:53]: Get total price from table = 1327.2
+[INFO 2018-01-09 06:55:53]: Add product to cart Test Finished
+[INFO 2018-01-09 06:55:58]: Smoke Test Started
+[INFO 2018-01-09 06:56:00]: Waiting for text
+[INFO 2018-01-09 06:56:00]: Smoke Test Finished
+[INFO 2018-01-09 06:56:05]: Add product to cart and check names
+[INFO 2018-01-09 06:56:06]: MacBook added to the Cart
+[INFO 2018-01-09 06:56:07]: MacBook added to the Cart
+[INFO 2018-01-09 06:56:07]: iPhone added to the Cart
+[INFO 2018-01-09 06:56:10]: Names got
+[INFO 2018-01-09 06:56:10]: Add product to cart and check names Test Finished
+[INFO 2018-01-09 07:00:00]: Add product to cart Test Started
+[INFO 2018-01-09 07:00:02]: MacBook added to the Cart
+[INFO 2018-01-09 07:00:02]: MacBook added to the Cart
+[INFO 2018-01-09 07:00:03]: iPhone added to the Cart
+[INFO 2018-01-09 07:00:04]: Cart button clicked
+[WARN 2018-01-09 07:00:05]: Wait for total price from table 
+[INFO 2018-01-09 07:00:05]: Get total price from table = 1327.2
+[INFO 2018-01-09 07:00:05]: Add product to cart Test Finished
+[INFO 2018-01-09 07:00:11]: Smoke Test Started
+[INFO 2018-01-09 07:00:13]: Waiting for text
+[INFO 2018-01-09 07:00:13]: Smoke Test Finished
+[INFO 2018-01-09 07:00:17]: Add product to cart and check names Test Started
+[INFO 2018-01-09 07:00:19]: MacBook added to the Cart
+[INFO 2018-01-09 07:00:19]: MacBook added to the Cart
+[INFO 2018-01-09 07:00:20]: iPhone added to the Cart
+[INFO 2018-01-09 07:00:22]: Names got
+[INFO 2018-01-09 07:00:22]: Add product to cart and check names Test Finished
+[INFO 2018-01-09 07:01:39]: Add product to cart Test Started
+[INFO 2018-01-09 07:01:40]: MacBook added to the Cart
+[INFO 2018-01-09 07:01:41]: MacBook added to the Cart
+[INFO 2018-01-09 07:01:41]: iPhone added to the Cart
+[INFO 2018-01-09 07:01:42]: Cart button clicked
+[WARN 2018-01-09 07:01:43]: Wait for total price from table 
+[INFO 2018-01-09 07:01:43]: Get total price from table = 1327.2
+[INFO 2018-01-09 07:01:43]: Add product to cart Test Finished
+[INFO 2018-01-09 07:01:49]: Smoke Test Started
+[INFO 2018-01-09 07:01:50]: Waiting for text
+[INFO 2018-01-09 07:01:51]: Smoke Test Finished
+[INFO 2018-01-09 07:01:55]: Add product to cart and check names Test Started
+[INFO 2018-01-09 07:01:57]: MacBook added to the Cart
+[INFO 2018-01-09 07:01:58]: MacBook added to the Cart
+[INFO 2018-01-09 07:01:58]: iPhone added to the Cart
+[INFO 2018-01-09 07:02:00]: Names got
+[INFO 2018-01-09 07:02:00]: Add product to cart and check names Test Finished
+[INFO 2018-01-09 07:38:22]: Add product to cart and check names Test Started
+[INFO 2018-01-09 07:38:59]: Smoke Test Started
+[INFO 2018-01-09 07:39:00]: Waiting for text
+[INFO 2018-01-09 07:39:00]: Smoke Test Finished
+[INFO 2018-01-09 07:39:05]: Add product to cart Test Started
+[INFO 2018-01-09 07:40:31]: Add product to cart Test Started
+[INFO 2018-01-09 07:42:38]: Add product to cart Test Started
+[INFO 2018-01-09 07:44:40]: Add product to cart Test Started
+[INFO 2018-01-09 07:44:41]: MacBook added to the Cart
+[INFO 2018-01-09 07:44:42]: MacBook added to the Cart
+[INFO 2018-01-09 07:44:42]: iPhone added to the Cart
+[INFO 2018-01-09 07:44:43]: Cart button clicked
+[WARN 2018-01-09 07:44:44]: Wait for total price from table 
+[INFO 2018-01-09 07:45:05]: Add product to cart Test Started
+[INFO 2018-01-09 07:45:07]: MacBook added to the Cart
+[INFO 2018-01-09 07:45:08]: MacBook added to the Cart
+[INFO 2018-01-09 07:45:08]: iPhone added to the Cart
+[INFO 2018-01-09 07:45:09]: Cart button clicked
+[WARN 2018-01-09 07:45:10]: Wait for total price from table 
+[INFO 2018-01-09 07:57:27]: Add product to cart and check names Test Started
+[INFO 2018-01-09 07:58:11]: Add product to cart Test Started
+[INFO 2018-01-09 07:59:28]: Add product to cart and check names Test Started
+[INFO 2018-01-09 07:59:30]: MacBook added to the Cart
+[INFO 2018-01-09 07:59:30]: MacBook added to the Cart
+[INFO 2018-01-09 07:59:30]: iPhone added to the Cart
+[INFO 2018-01-09 07:59:33]: Names got
+[INFO 2018-01-09 07:59:33]: Add product to cart and check names Test Finished
+[INFO 2018-01-09 07:59:38]: Smoke Test Started
+[INFO 2018-01-09 07:59:39]: Waiting for text
+[INFO 2018-01-09 07:59:39]: Smoke Test Finished
+[INFO 2018-01-09 07:59:45]: Add product to cart Test Started
+[INFO 2018-01-09 07:59:46]: MacBook added to the Cart
+[INFO 2018-01-09 07:59:46]: MacBook added to the Cart
+[INFO 2018-01-09 07:59:47]: iPhone added to the Cart
+[INFO 2018-01-09 07:59:48]: Cart button clicked
+[WARN 2018-01-09 07:59:49]: Wait for total price from table 
+[INFO 2018-01-09 08:04:02]: Add product to cart Test Started
+[INFO 2018-01-09 08:04:04]: MacBook added to the Cart
+[INFO 2018-01-09 08:04:04]: MacBook added to the Cart
+[INFO 2018-01-09 08:04:04]: iPhone added to the Cart
+[INFO 2018-01-09 08:04:06]: Cart button clicked
+[WARN 2018-01-09 08:04:07]: Wait for total price from table 
+[INFO 2018-01-09 08:07:28]: Add product to cart Test Started
+[INFO 2018-01-09 08:07:30]: MacBook added to the Cart
+[INFO 2018-01-09 08:07:30]: MacBook added to the Cart
+[INFO 2018-01-09 08:07:31]: iPhone added to the Cart
+[INFO 2018-01-09 08:07:32]: Cart button clicked
+[WARN 2018-01-09 08:07:33]: Wait for total price from table 
+[INFO 2018-01-09 08:07:33]: Get total price from table = 1327.2
+[INFO 2018-01-09 08:07:33]: Add product to cart Test Finished
+[INFO 2018-01-09 08:07:44]: Add product to cart and check names Test Started
+[INFO 2018-01-09 08:07:45]: MacBook added to the Cart
+[INFO 2018-01-09 08:07:45]: MacBook added to the Cart
+[INFO 2018-01-09 08:07:46]: iPhone added to the Cart
+[INFO 2018-01-09 08:07:48]: Names got
+[INFO 2018-01-09 08:07:48]: Add product to cart and check names Test Finished
+[INFO 2018-01-09 08:07:52]: Smoke Test Started
+[INFO 2018-01-09 08:07:55]: Waiting for text
+[INFO 2018-01-09 08:07:55]: Smoke Test Finished
+[INFO 2018-01-09 08:07:59]: Add product to cart Test Started
+[INFO 2018-01-09 08:08:01]: MacBook added to the Cart
+[INFO 2018-01-09 08:08:01]: MacBook added to the Cart
+[INFO 2018-01-09 08:08:01]: iPhone added to the Cart
+[INFO 2018-01-09 08:08:03]: Cart button clicked
+[WARN 2018-01-09 08:08:04]: Wait for total price from table 
+[INFO 2018-01-09 08:08:04]: Get total price from table = 1327.2
+[INFO 2018-01-09 08:08:04]: Add product to cart Test Finished
+[INFO 2018-01-09 09:28:43]: Add product to cart and check names Test Started
+[INFO 2018-01-09 09:28:45]: MacBook added to the Cart
+[INFO 2018-01-09 09:28:45]: MacBook added to the Cart
+[INFO 2018-01-09 09:28:46]: iPhone added to the Cart
+[INFO 2018-01-09 09:28:48]: Names got
+[INFO 2018-01-09 09:28:48]: Add product to cart and check names Test Finished
+[INFO 2018-01-09 09:28:53]: Smoke Test Started
+[INFO 2018-01-09 09:28:56]: Waiting for text
+[INFO 2018-01-09 09:28:56]: Smoke Test Finished
+[INFO 2018-01-09 09:29:01]: Add product to cart Test Started
+[INFO 2018-01-09 09:29:03]: MacBook added to the Cart
+[INFO 2018-01-09 09:29:03]: MacBook added to the Cart
+[INFO 2018-01-09 09:29:03]: iPhone added to the Cart
+[INFO 2018-01-09 09:29:05]: Cart button clicked
+[WARN 2018-01-09 09:29:06]: Wait for total price from table 
+[INFO 2018-01-09 09:29:06]: Get total price from table = 1327.2
+[INFO 2018-01-09 09:29:06]: Add product to cart Test Finished
+[INFO 2018-01-09 09:37:59]: Add product to cart and check names Test Started
+[INFO 2018-01-09 09:38:02]: MacBook added to the Cart
+[INFO 2018-01-09 09:38:02]: MacBook added to the Cart
+[INFO 2018-01-09 09:38:03]: iPhone added to the Cart
+[INFO 2018-01-09 09:38:05]: Names got
+[INFO 2018-01-09 09:38:05]: Add product to cart and check names Test Finished
+[INFO 2018-01-09 09:38:10]: Smoke Test Started
+[INFO 2018-01-09 09:38:13]: Waiting for text
+[INFO 2018-01-09 09:38:13]: Smoke Test Finished
+[INFO 2018-01-09 09:38:18]: Add product to cart Test Started
+[INFO 2018-01-09 09:38:20]: MacBook added to the Cart
+[INFO 2018-01-09 09:38:21]: MacBook added to the Cart
+[INFO 2018-01-09 09:38:21]: iPhone added to the Cart
+[INFO 2018-01-09 09:38:22]: Cart button clicked
+[WARN 2018-01-09 09:38:23]: Wait for total price from table 
+[INFO 2018-01-09 09:38:23]: Get total price from table = 1327.2
+[INFO 2018-01-09 09:38:23]: Add product to cart Test Finished
+[INFO 2018-01-09 10:03:08]: Add product to cart Test Started
+[INFO 2018-01-09 10:04:07]: Add product to cart Test Started
+[INFO 2018-01-09 10:04:52]: Add product to cart Test Started
+[INFO 2018-01-09 10:04:54]: MacBook added to the Cart
+[INFO 2018-01-09 10:04:55]: MacBook added to the Cart
+[INFO 2018-01-09 10:04:55]: iPhone added to the Cart
+[INFO 2018-01-09 10:04:57]: Cart button clicked
+[WARN 2018-01-09 10:04:58]: Wait for total price from table 
+[INFO 2018-01-09 10:04:58]: Get total price from table = 1327.2
+[INFO 2018-01-09 10:04:58]: Add product to cart Test Finished
+[INFO 2018-01-09 10:06:35]: Add product to cart Test Started
+[INFO 2018-01-09 10:08:01]: Add product to cart Test Started
+[INFO 2018-01-09 10:08:51]: Add product to cart Test Started
+[INFO 2018-01-09 10:09:10]: Add product to cart Test Started
+[INFO 2018-01-09 10:10:13]: Add product to cart Test Started
+[INFO 2018-01-09 10:10:16]: MacBook added to the Cart
+[INFO 2018-01-09 10:10:16]: MacBook added to the Cart
+[INFO 2018-01-09 10:10:17]: iPhone added to the Cart
+[INFO 2018-01-09 10:10:18]: Cart button clicked
+[WARN 2018-01-09 10:10:19]: Wait for total price from table 
+[INFO 2018-01-09 10:10:19]: Get total price from table = 1327.2
+[INFO 2018-01-09 10:10:19]: Add product to cart Test Finished
+[INFO 2018-01-09 10:51:59]: Add product to cart Test Started
+[INFO 2018-01-09 10:52:10]: MacBook added to the Cart
+[INFO 2018-01-09 10:52:10]: MacBook added to the Cart
+[INFO 2018-01-09 10:52:11]: iPhone added to the Cart
+[INFO 2018-01-09 10:52:12]: Cart button clicked
+[WARN 2018-01-09 10:52:13]: Wait for total price from table 
+[INFO 2018-01-09 10:52:13]: Get total price from table = 1327.2
+[INFO 2018-01-09 10:52:13]: Add product to cart Test Finished
+[INFO 2018-01-09 10:54:08]: Add product to cart Test Started
+[INFO 2018-01-09 10:54:10]: MacBook added to the Cart
+[INFO 2018-01-09 10:54:11]: MacBook added to the Cart
+[INFO 2018-01-09 10:54:11]: iPhone added to the Cart
+[INFO 2018-01-09 10:54:13]: Cart button clicked
+[WARN 2018-01-09 10:54:14]: Wait for total price from table 
+[INFO 2018-01-09 10:54:14]: Get total price from table = 1327.2
+[INFO 2018-01-09 10:54:14]: Add product to cart Test Finished
+[INFO 2018-01-09 10:54:51]: Add product to cart Test Started
+[INFO 2018-01-09 11:04:51]: Add product to cart Test Started
+[INFO 2018-01-09 11:05:28]: Add product to cart Test Started
+[INFO 2018-01-09 11:06:57]: Add product to cart Test Started
+[INFO 2018-01-09 11:07:42]: Add product to cart Test Started
+[INFO 2018-01-09 11:07:49]: MacBook added to the Cart
+[INFO 2018-01-09 11:09:19]: Add product to cart Test Started
+[INFO 2018-01-09 11:09:23]: MacBook added to the Cart
+[INFO 2018-01-09 11:09:23]: MacBook added to the Cart
+[INFO 2018-01-09 11:09:24]: iPhone added to the Cart
+[INFO 2018-01-09 11:10:44]: Add product to cart Test Started
+[INFO 2018-01-09 11:11:44]: Add product to cart Test Started
+[INFO 2018-01-09 11:12:38]: Add product to cart Test Started
+[INFO 2018-01-09 11:14:20]: Add product to cart Test Started
+[INFO 2018-01-09 11:14:22]: MacBook added to the Cart
+[INFO 2018-01-09 11:14:23]: MacBook added to the Cart
+[INFO 2018-01-09 11:14:23]: iPhone added to the Cart
+[INFO 2018-01-09 11:14:24]: Cart button clicked
+[WARN 2018-01-09 11:14:25]: Wait for total price from table 
+[INFO 2018-01-09 11:14:26]: Get total price from table = 1327.2
+[INFO 2018-01-09 11:14:26]: Add product to cart Test Finished
+[INFO 2018-01-09 11:17:08]: Add product to cart Test Started
+[INFO 2018-01-09 11:17:09]: MacBook added to the Cart
+[INFO 2018-01-09 11:17:10]: MacBook added to the Cart
+[INFO 2018-01-09 11:17:11]: iPhone added to the Cart
+[INFO 2018-01-09 11:17:12]: Cart button clicked
+[WARN 2018-01-09 11:17:13]: Wait for total price from table 
+[INFO 2018-01-09 11:17:14]: Get total price from table = 1327.2
+[INFO 2018-01-09 11:17:14]: Add product to cart Test Finished
+[INFO 2018-01-09 11:17:41]: Add product to cart Test Started
+[INFO 2018-01-09 11:17:44]: MacBook added to the Cart
+[INFO 2018-01-09 11:17:44]: MacBook added to the Cart
+[INFO 2018-01-09 11:17:45]: iPhone added to the Cart
+[INFO 2018-01-09 11:17:46]: Cart button clicked
+[WARN 2018-01-09 11:17:47]: Wait for total price from table 
+[INFO 2018-01-09 11:17:47]: Get total price from table = 1327.2
+[INFO 2018-01-09 11:17:47]: Add product to cart Test Finished
+[INFO 2018-01-09 11:32:51]: Add product to cart Test Started
+[INFO 2018-01-09 11:32:55]: MacBook added to the Cart
+[INFO 2018-01-09 11:32:56]: MacBook added to the Cart
+[INFO 2018-01-09 11:32:56]: iPhone added to the Cart
+[INFO 2018-01-09 11:32:58]: Cart button clicked
+[WARN 2018-01-09 11:32:59]: Wait for total price from table 
+[INFO 2018-01-09 11:32:59]: Get total price from table = 1327.2
+[INFO 2018-01-09 11:32:59]: Add product to cart Test Finished
+[INFO 2018-01-09 12:35:42]: Add product to cart Test Started
+[INFO 2018-01-09 12:35:58]: MacBook added to the Cart
+[INFO 2018-01-09 12:35:58]: MacBook added to the Cart
+[INFO 2018-01-09 12:35:59]: iPhone added to the Cart
+[INFO 2018-01-09 12:36:00]: Cart button clicked
+[WARN 2018-01-09 12:36:01]: Wait for total price from table 
+[INFO 2018-01-09 12:36:01]: Get total price from table = 1327.2
+[INFO 2018-01-09 12:36:01]: Add product to cart Test Finished
+[INFO 2018-01-09 12:36:48]: Add product to cart Test Started
+[INFO 2018-01-09 12:36:50]: MacBook added to the Cart
+[INFO 2018-01-09 12:36:51]: MacBook added to the Cart
+[INFO 2018-01-09 12:36:51]: iPhone added to the Cart
+[INFO 2018-01-09 12:36:52]: Cart button clicked
+[WARN 2018-01-09 12:36:53]: Wait for total price from table 
+[INFO 2018-01-09 12:36:53]: Get total price from table = 1327.2
+[INFO 2018-01-09 12:36:53]: Add product to cart Test Finished
+[INFO 2018-01-09 12:41:16]: Smoke Test Started
+[INFO 2018-01-09 12:41:19]: Waiting for text
+[INFO 2018-01-09 12:41:19]: Smoke Test Finished
+[INFO 2018-01-09 12:41:45]: Smoke Test Started
+[INFO 2018-01-09 12:41:48]: Waiting for text
+[INFO 2018-01-09 12:41:48]: Smoke Test Finished
+[INFO 2018-01-09 12:42:12]: Smoke Test Started
+[INFO 2018-01-09 12:42:15]: Waiting for text
+[INFO 2018-01-09 12:42:15]: Smoke Test Finished
+[INFO 2018-01-09 12:44:31]: Add product to cart and check names Test Started
+[INFO 2018-01-09 12:44:33]: MacBook added to the Cart
+[INFO 2018-01-09 12:44:33]: MacBook added to the Cart
+[INFO 2018-01-09 12:44:33]: iPhone added to the Cart
+[INFO 2018-01-09 12:44:36]: Names got
+[INFO 2018-01-09 12:44:36]: Add product to cart and check names Test Finished
+[INFO 2018-01-09 12:46:17]: Add product to cart Test Started
+[INFO 2018-01-09 12:46:19]: MacBook added to the Cart
+[INFO 2018-01-09 12:46:19]: MacBook added to the Cart
+[INFO 2018-01-09 12:46:20]: iPhone added to the Cart
+[INFO 2018-01-09 12:46:21]: Cart button clicked
+[WARN 2018-01-09 12:46:22]: Wait for total price from table 
+[INFO 2018-01-09 12:46:22]: Get total price from table = 1327.2
+[INFO 2018-01-09 12:46:22]: Add product to cart Test Finished
+[INFO 2018-01-09 12:48:47]: Add product to cart and check names Test Started
+[INFO 2018-01-09 12:48:49]: MacBook added to the Cart
+[INFO 2018-01-09 12:48:49]: MacBook added to the Cart
+[INFO 2018-01-09 12:48:49]: iPhone added to the Cart
+[INFO 2018-01-09 12:48:52]: Names got
+[INFO 2018-01-09 12:48:52]: Add product to cart and check names Test Finished
+[INFO 2018-01-09 12:48:57]: Smoke Test Started
+[INFO 2018-01-09 12:48:59]: Waiting for text
+[INFO 2018-01-09 12:48:59]: Smoke Test Finished
+[INFO 2018-01-09 12:49:04]: Add product to cart Test Started
+[INFO 2018-01-09 12:49:05]: MacBook added to the Cart
+[INFO 2018-01-09 12:49:06]: MacBook added to the Cart
+[INFO 2018-01-09 12:49:06]: iPhone added to the Cart
+[INFO 2018-01-09 12:49:07]: Cart button clicked
+[WARN 2018-01-09 12:49:08]: Wait for total price from table 
+[INFO 2018-01-09 12:49:08]: Get total price from table = 1327.2
+[INFO 2018-01-09 12:49:08]: Add product to cart Test Finished
+[INFO 2018-01-09 13:12:13]: Add product to cart and check names Test Started
+[INFO 2018-01-09 13:12:30]: Smoke Test Started
+[INFO 2018-01-09 13:12:32]: Waiting for text
+[INFO 2018-01-09 13:12:32]: Smoke Test Finished
+[INFO 2018-01-09 13:12:38]: Add product to cart Test Started
+[INFO 2018-01-09 13:13:53]: Add product to cart and check names Test Started
+[INFO 2018-01-09 13:14:09]: Smoke Test Started
+[INFO 2018-01-09 13:14:11]: Waiting for text
+[INFO 2018-01-09 13:14:11]: Smoke Test Finished
+[INFO 2018-01-09 13:14:15]: Add product to cart Test Started
+[INFO 2018-01-09 13:16:02]: Add product to cart and check names Test Started
+[INFO 2018-01-09 13:17:34]: Add product to cart and check names Test Started
+[INFO 2018-01-09 13:17:36]: MacBook added to the Cart
+[INFO 2018-01-09 13:17:36]: MacBook added to the Cart
+[INFO 2018-01-09 13:17:37]: iPhone added to the Cart
+[INFO 2018-01-09 13:17:39]: Names got
+[INFO 2018-01-09 13:17:39]: Add product to cart and check names Test Finished
+[INFO 2018-01-09 13:17:45]: Smoke Test Started
+[INFO 2018-01-09 13:17:48]: Waiting for text
+[INFO 2018-01-09 13:17:48]: Smoke Test Finished
+[INFO 2018-01-09 13:17:53]: Add product to cart Test Started
+[INFO 2018-01-09 13:17:55]: MacBook added to the Cart
+[INFO 2018-01-09 13:17:55]: MacBook added to the Cart
+[INFO 2018-01-09 13:17:56]: iPhone added to the Cart
+[INFO 2018-01-09 13:17:57]: Cart button clicked
+[WARN 2018-01-09 13:17:58]: Wait for total price from table 
+[INFO 2018-01-09 13:17:58]: Get total price from table
+[INFO 2018-01-09 13:17:58]: Add product to cart Test Finished

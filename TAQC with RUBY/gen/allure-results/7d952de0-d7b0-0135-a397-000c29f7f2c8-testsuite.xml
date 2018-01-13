@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ns2:test-suite xmlns="" xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1515532673225" stop="1515532678269">
+  <name>Products from HOME page should be added to the cart</name>
+  <title>Products from HOME page should be added to the cart</title>
+  <test-cases>
+    <test-case start="1515532673225" stop="1515532678269" status="passed">
+      <name>Products from HOME page should be added to the cart and had right total</name>
+      <title>Products from HOME page should be added to the cart and had right total</title>
+      <steps/>
+      <attachments/>
+      <labels>
+        <label name="thread" value="19369740"/>
+        <label name="host" value="ubuntu"/>
+      </labels>
+      <parameters/>
+    </test-case>
+  </test-cases>
+  <labels>
+    <label name="thread" value="19369740"/>
+    <label name="host" value="ubuntu"/>
+  </labels>
+</ns2:test-suite>

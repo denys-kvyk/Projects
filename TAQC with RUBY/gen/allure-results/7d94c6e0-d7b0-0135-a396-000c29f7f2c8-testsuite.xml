@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ns2:test-suite xmlns="" xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1515532665910" stop="1515532668710">
+  <name>Smoke test should check</name>
+  <title>Smoke test should check</title>
+  <test-cases>
+    <test-case start="1515532665910" stop="1515532668709" status="passed">
+      <name>Smoke test should check if the cars is empty</name>
+      <title>Smoke test should check if the cars is empty</title>
+      <steps/>
+      <attachments/>
+      <labels>
+        <label name="thread" value="19369740"/>
+        <label name="host" value="ubuntu"/>
+      </labels>
+      <parameters/>
+    </test-case>
+  </test-cases>
+  <labels>
+    <label name="thread" value="19369740"/>
+    <label name="host" value="ubuntu"/>
+  </labels>
+</ns2:test-suite>
